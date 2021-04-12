@@ -5,8 +5,8 @@
 ![video](./assets/)
 
         
-## Name:Fidel Bello, Lucas Diaz, Robert Vanscoy, Fransisco Ortega, Mike Gordillo
-## GitHub user name: Movie_Profile_App
+## Name: Mike Gordillo
+## GitHub user name: TechBlog1
 
 ## Table of contents:  
 * [Description](#description)
