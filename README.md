@@ -17,7 +17,7 @@
 * [Questions](#questions)
         
 ## Description:
-* This is a Blog/Posts App for a user to create a profile and make comments and post and update them. The comments are saved to a Mysql dadabase to the specific user profile to ater retrieve and update the comments/posts. The user will be able to view previous comments by other users and the times and date, at which the posts where made.
+* This is a Blog/Posts App for a user to create a profile and make comments and post and update them. The comments are saved to a Mysql dadabase to the specific user profile to alter retrieve and update the comments/posts. The user will be able to view previous comments by other users and the times and date, at which the posts where made.
 ## Installation:
 * Download all the files in this repository, then npm i and run start.
 ## Usage:
