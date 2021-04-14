@@ -2,7 +2,7 @@
 
 ![License Badge](https://img.shields.io/static/v1?label=License&message=None&color=blue)
 
-![video](./assets/TechBolg.gif)
+![video](./assets/TechBolgVid.gif)
 
         
 ## Name: Mike Gordillo
